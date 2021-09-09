@@ -2,6 +2,7 @@
 # Curated from sources online.     https://github.com/mcintosh109/Pi-Hole_my_blocklist
 # Last updated: 11 december 2019
 
+youtube-ui.l.google.com
 youtube.com
 www.youtube.com
 youtu.be
